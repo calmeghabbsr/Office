@@ -1,3 +1,7 @@
 file 1 to be pushed
 Changed from local
+<<<<<<< HEAD
 2nd change from local
+=======
+Changed from remote
+>>>>>>> 5cc068091149ba409543c8e62a065fc1d0498ec9
